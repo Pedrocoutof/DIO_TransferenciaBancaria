@@ -1,0 +1,15 @@
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\Transferencia_Bancaria.exe
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\Transferencia_Bancaria.deps.json
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\Transferencia_Bancaria.runtimeconfig.json
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\Transferencia_Bancaria.dll
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\ref\Transferencia_Bancaria.dll
+H:\Projetos.NET\Transferencia_Bancaria\bin\Debug\net6.0\Transferencia_Bancaria.pdb
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.csproj.AssemblyReference.cache
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.AssemblyInfoInputs.cache
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.AssemblyInfo.cs
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.csproj.CoreCompileInputs.cache
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.dll
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\ref\Transferencia_Bancaria.dll
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.pdb
+H:\Projetos.NET\Transferencia_Bancaria\obj\Debug\net6.0\Transferencia_Bancaria.genruntimeconfig.cache
